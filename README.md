@@ -44,7 +44,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/dogankocadayilar/button-component
+$ git clone https://github.com/dogankocadayilar/button-component.git
 
 # Install dependencies
 $ npm install
