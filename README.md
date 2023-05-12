@@ -31,7 +31,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![Screenshot 2023-05-12 at 18-04-51 Button Component](https://github.com/dogankocadayilar/button-component/assets/75983262/15438640-f38f-4544-8a6c-921019e29202)
 
 ### Built With
 
