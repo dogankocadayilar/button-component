@@ -5,7 +5,7 @@ interface AppProps {}
 
 function App({}: AppProps) {
   return (
-    <div className="grid grid-cols-4 p-8 gap-8 flex-wrap">
+    <div className="grid grid-cols-2 lg:grid-cols-3 p-8 justify-between gap-8">
       {/* Defaults */}
       <div className="grid grid-cols-3 gap-8 text-center border p-5 border-black place-items-center rounded-lg">
         <h1 className=" col-span-3 text-2xl">Defaults</h1>
