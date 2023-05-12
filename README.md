@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://https://dogankocadayilar.github.io/button-component/">
+    <a href="https://dogankocadayilar.github.io/button-component/">
       Solution
     </a>
     <span> | </span>
